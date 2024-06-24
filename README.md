@@ -1,6 +1,6 @@
 Make sure to have all required flask related libraries installed
 
-* How to Run
+# How to Run
 
 1) pip install -r requirements.txt
 2) export GEM_KEY= YOUR API KEY
@@ -8,20 +8,21 @@ Make sure to have all required flask related libraries installed
 4) python3 app.py
 
 
-Flask Text Summarizer Web App
+#Flask Text Summarizer Web App
 This Flask application allows users to register, log in, input text for summarization, and view summaries generated using Google's Generative AI. Users can also view their previously generated summaries on their dashboard.
 
-#Features
-User registration and authentication
-Text input for summarization
-Dashboard to view saved summaries
-Technologies Used
-Flask
-SQLAlchemy (for database management)
-Flask-Login (for user session management)
-Google Generative AI (for text summarization)
+# Features
+* User registration and authentication
+* Text input for summarization
+* Dashboard to view saved summaries
+  
+# Technologies Used
+* Flask
+* SQLAlchemy (for database management)
+* Flask-Login (for user session management)
+* Google Generative AI (for text summarization)
 
-#Usage
+# Usage
 1) Run the application:
  python app.py
    
