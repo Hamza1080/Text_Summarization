@@ -1,6 +1,6 @@
 Make sure to have all required flask related libraries installed
 
-How to Run
+* How to Run
 
 1) pip install -r requirements.txt
 2) export GEM_KEY= YOUR API KEY
