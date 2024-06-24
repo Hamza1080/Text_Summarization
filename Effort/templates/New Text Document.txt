@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Summary</title>
+</head>
+<body>
+  <h2>Original Article</h2>
+  <p>{{ article }}</p>
+  <h2>Summary</h2>
+  <p>{{ summary }}</p>
+</body>
+</html>
